@@ -18,7 +18,7 @@ Apuntes con información y donde encontrarla
 BACKEND PASOS
 Ver si existe la propiedad o hay que crearla:
 
-Si no existe, tocamos migrations y models(copia pega de otros)
+Si no existe, tocamos migrations y models para añadir la propiedad(copia pega de otros)
 
 Configuramos el frontend para que se vea coml debe aunque no funcione
 
